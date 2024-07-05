@@ -18,57 +18,52 @@ This repository contains the Jupyter Notebooks and associated files for the IBM 
 - [Usage](#usage)
 - [License](#license)
 
-## Introduction
-
-This project is part of the IBM Data Science Capstone course on Coursera. The aim is to analyze the outcomes of the SpaceX Falcon 9 first stage landings and predict the success of future landings. 
-
 ## Project Structure
 
 The repository is organized into the following Jupyter Notebooks, each corresponding to a specific task in the project:
 
-
-1. `1_Data_Collection_Wrangling.ipynb` - Data collection and data wrangling methodology
-2. `2_EDA_Interactive_Visual_Analytics.ipynb` - EDA and interactive visual analytics methodology
-3. `3_Predictive_Analysis_Methodology.ipynb` - Predictive analysis methodology
-4. `4_EDA_Visualization_Results.ipynb` - EDA with visualization results
-5. `5_EDA_SQL_Results.ipynb` - EDA with SQL results
-6. `6_Interactive_Map_Folium_Results.ipynb` - Interactive map with Folium results
-7. `7_Plotly_Dash_Dashboard_Results.ipynb` - Plotly Dash dashboard results
-8. `8_Predictive_Analysis_Results.ipynb` - Predictive analysis (classification) results
+1. `1_Data_Collection.ipynb` - Data collection
+2. `2_Webscraping.ipynb` - Web scraping
+3. `3_Data_Wrangling.ipynb` - Data wrangling methodology
+4. `4_EDA_SQL.ipynb` - EDA with SQL
+5. `5_Data_Visualization.ipynb` - Data visualization
+6. `6_Interactive_Map_Folium.ipynb` - Interactive map with Folium
+7. `7_Plotly_Dash_Dashboard.ipynb` - Plotly Dash dashboard
+8. `8_Spacex_ML_Predictions.ipynb` - Predictive analysis (classification) results
 
 ## Data Collection and Data Wrangling
 
-The data was collected from various sources, including the SpaceX API, and then wrangled to clean and preprocess it for analysis. Detailed methodology and steps are documented in `1_Data_Collection_Wrangling.ipynb`.
+The data was collected from various sources, including the SpaceX API, and then wrangled to clean and preprocess it for analysis. Detailed methodology and steps are documented in `1_Data_Collection.ipynb` and `3_Data_Wrangling.ipynb`.
 
 ## Exploratory Data Analysis (EDA)
 
-EDA was performed to uncover insights and patterns in the data. Interactive visual analytics techniques were used to make the exploration more insightful. Details can be found in `2_EDA_Interactive_Visual_Analytics.ipynb`.
+EDA was performed to uncover insights and patterns in the data. Interactive visual analytics techniques were used to make the exploration more insightful. Details can be found in `4_EDA_SQL.ipynb` and `5_Data_Visualization.ipynb`.
 
 ## Predictive Analysis
 
-A predictive model was developed to classify the success of future SpaceX Falcon 9 first stage landings. The methodology is documented in `4_Predictive_Analysis_Methodology.ipynb`, and the results are in `8_Predictive_Analysis_Results.ipynb`.
+A predictive model was developed to classify the success of future SpaceX Falcon 9 first stage landings. The methodology and results are documented in `8_Spacex_ML_Predictions.ipynb`.
 
 ## Results
 
 ### EDA with Visualization
 
-The results of the EDA using visualization techniques are documented in `4_EDA_Visualization_Results.ipynb`.
+The results of the EDA using visualization techniques are documented in `5_Data_Visualization.ipynb`.
 
 ### EDA with SQL
 
-SQL was used for data exploration and analysis. The results of these analyses are in `5_EDA_SQL_Results.ipynb`.
+SQL was used for data exploration and analysis. The results of these analyses are in `4_EDA_SQL.ipynb`.
 
 ### Interactive Map with Folium
 
-An interactive map was created using Folium to visualize the landing sites. The results are documented in `6_Interactive_Map_Folium_Results.ipynb`.
+An interactive map was created using Folium to visualize the landing sites. The results are documented in `6_Interactive_Map_Folium.ipynb`.
 
 ### Plotly Dash Dashboard
 
-A Plotly Dash dashboard was developed to provide interactive visualizations of the analysis. The details can be found in `7_Plotly_Dash_Dashboard_Results.ipynb`.
+A Plotly Dash dashboard was developed to provide interactive visualizations of the analysis. The details can be found in `7_Plotly_Dash_Dashboard.ipynb`.
 
 ### Predictive Analysis Results
 
-The results of the predictive analysis are documented in `8_Predictive_Analysis_Results.ipynb`.
+The results of the predictive analysis are documented in `8_Spacex_ML_Predictions.ipynb`.
 
 ## Conclusion
 

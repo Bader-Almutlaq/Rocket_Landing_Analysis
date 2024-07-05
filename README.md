@@ -27,14 +27,14 @@ This project is part of the IBM Data Science Capstone course on Coursera. The ai
 The repository is organized into the following Jupyter Notebooks, each corresponding to a specific task in the project:
 
 
-1. `2_Data_Collection_Wrangling.ipynb` - Data collection and data wrangling methodology
-2. `3_EDA_Interactive_Visual_Analytics.ipynb` - EDA and interactive visual analytics methodology
-3. `4_Predictive_Analysis_Methodology.ipynb` - Predictive analysis methodology
-4. `5_EDA_Visualization_Results.ipynb` - EDA with visualization results
-5. `6_EDA_SQL_Results.ipynb` - EDA with SQL results
-6. `7_Interactive_Map_Folium_Results.ipynb` - Interactive map with Folium results
-7. `8_Plotly_Dash_Dashboard_Results.ipynb` - Plotly Dash dashboard results
-8. `9_Predictive_Analysis_Results.ipynb` - Predictive analysis (classification) results
+1. `1_Data_Collection_Wrangling.ipynb` - Data collection and data wrangling methodology
+2. `2_EDA_Interactive_Visual_Analytics.ipynb` - EDA and interactive visual analytics methodology
+3. `3_Predictive_Analysis_Methodology.ipynb` - Predictive analysis methodology
+4. `4_EDA_Visualization_Results.ipynb` - EDA with visualization results
+5. `5_EDA_SQL_Results.ipynb` - EDA with SQL results
+6. `6_Interactive_Map_Folium_Results.ipynb` - Interactive map with Folium results
+7. `7_Plotly_Dash_Dashboard_Results.ipynb` - Plotly Dash dashboard results
+8. `8_Predictive_Analysis_Results.ipynb` - Predictive analysis (classification) results
 
 ## Data Collection and Data Wrangling
 
